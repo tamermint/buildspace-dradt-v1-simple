@@ -1,4 +1,4 @@
-# buildspace-dradt-v1-simple
+# buildspace-draft-v1-simple
 
 - This project is the first iteration for the concept of ATMAN channel
 
